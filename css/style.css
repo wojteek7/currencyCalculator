@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.form {
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+
+.form__fieldset {
+
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: hsl(0, 0%, 75%);
+}
+
+.form__legend {
+    font-size: large;
+    padding: 10px;
+}
+
+.form__labelText {
+    width: 120px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.form__field {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 95%);
+    border-color: hsl(0, 0%, 75%);
+}
+
+.form {
+    background-color: hsl(0, 0%, 90%);
+
+}
+
+.form__field:invalid {
+    background-color: rgb(255, 52, 52);
+}
+
+
+.form__button {
+    border: none;
+    border-radius: 10px;
+    width: 123px;
+    background-color: hsl(153, 100%, 45%);
+}
+
+.form__button:hover {
+    background-color: hsl(153, 100%, 55%);
+}
+
+.form__button:active {
+    background-color: hsl(153, 100%, 78%);
+}
