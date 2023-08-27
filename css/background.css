@@ -1,0 +1,7 @@
+.background {
+height: 700px;
+overflow: auto;
+background-repeat:unset;
+background-position: center;
+background-image: url("../images/background.png");
+}
