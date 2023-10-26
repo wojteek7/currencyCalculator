@@ -8,7 +8,7 @@
 Mój drugi projekt na drodze do zostania programistą, podstawowy przelicznik walut wykorzystujący proste formuły javascript.
 
 ## screenshot
-![screenshot](https://photos.app.goo.gl/fgWSm6sU4cayaHFE9)
+![screenshot](screenreadme.png)
 
 ## technologie
 
