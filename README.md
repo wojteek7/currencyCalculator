@@ -8,7 +8,7 @@
 Mój drugi projekt na drodze do zostania programistą, podstawowy przelicznik walut wykorzystujący proste formuły javascript.
 
 ## screenshot
-![screenshot](screenreadme.png)
+![screenshot](screenreadme.jpg)
 
 ## technologie
 
@@ -24,6 +24,6 @@ W aplikacji zostały użyte podstawowe elementy HTML, takie jak nagłówki, tabe
 My second project on the way to be a programmer, basic currency calculator which using simple JavaScript formulas.
 
 ## screenshot
-![screenshot](https://photos.app.goo.gl/fgWSm6sU4cayaHFE9)
+![screenshot](screenreadme.jpg)
 
 Basic HTML elements such as headers, tables, lists, footers, and articles were used in the application. </br> CSS was also applied to enhance the project's aesthetics, and JavaScript was utilized, mainly arrow functions, to ensure the proper functioning of the converter and to write code that is as concise and readable as possible.
