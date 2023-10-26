@@ -1,8 +1,9 @@
 # Przelicznik walut - Wojciech Dziugieł
 
-##demo 
-[Link]https://wojteek7.github.io/projekt2/
+## linki 
+[Demo]https://wojteek7.github.io/projekt2/
+[Repozytorium]https://github.com/wojteek7/projekt2.git
 
-##opis
+## opis
 Mój drugi projekt na drodze do zostania programistą, podstawowy przelicznik walut wykorzystujący proste formuły javascript,
 
