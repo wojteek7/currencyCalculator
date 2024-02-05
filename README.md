@@ -1,7 +1,7 @@
 # Przelicznik walut - Wojciech Dziugieł
 
 ## linki 
-[Demo]https://wojteek7.github.io/projekt2/ <br />
+[Demo]https://wojteek7.github.io/currencyCalculator/<br />
 [Repozytorium]https://github.com/wojteek7/projekt2.git
 
 ## opis
@@ -17,7 +17,7 @@ W aplikacji zostały użyte podstawowe elementy HTML, takie jak nagłówki, tabe
 # English
 
 ## links
-[Demo]https://wojteek7.github.io/projekt2/ <br />
+[Demo]https://wojteek7.github.io/currencyCalculator/ <br />
 [Repository]https://github.com/wojteek7/projekt2.git
 
 ## description
